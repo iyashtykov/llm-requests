@@ -1,0 +1,18 @@
+{
+	"title": "openai request",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": true,
+	"hideBackToDashboard": true,
+	"protectLayout": false,
+	"order": [
+		"LLM-requests-cdfe"
+	]
+}

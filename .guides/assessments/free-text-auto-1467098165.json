@@ -1,0 +1,46 @@
+{
+	"type": "free-text-auto",
+	"taskId": "free-text-auto-1467098165",
+	"source": {
+		"name": "openai",
+		"showName": true,
+		"instructions": "type the question below",
+		"command": "bash openai.sh",
+		"timeoutSeconds": 100,
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"arePartialPointsAllowed": false,
+		"previewType": "NONE",
+		"points": 100,
+		"useMaximumScore": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text Autograde"
+				}
+			],
+			"files": [
+				"anthropic.sh",
+				"openai.sh"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"panelNumber": 1,
+					"content": "anthropic.sh"
+				},
+				{
+					"type": "file",
+					"panelNumber": 0,
+					"content": "openai.sh"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}
